@@ -10,11 +10,11 @@ static const char *fonts[]          = {
 	"Hack Nerd Font Mono:size=13:antialias=true:autohint=true",
 };
 static const char dmenufont[]       = "Hack Nerd Font Mono:size=13:antialias=true:autohint=true";
-static const char col_gray1[]       = "#222222";
-static const char col_gray2[]       = "#444444";
-static const char col_gray3[]       = "#bbbbbb";
-static const char col_gray4[]       = "#eeeeee";
-static const char col_cyan[]        = "#005577";
+static const char col_gray1[]       = "#282828";
+static const char col_gray2[]       = "#2e2e2e";
+static const char col_gray3[]       = "#928374";
+static const char col_gray4[]       = "#fe8019";
+static const char col_cyan[]        = "#076678";
 static const unsigned int baralpha = 0xd0;
 static const unsigned int borderalpha = OPAQUE;
 static const char *colors[][3]      = {

@@ -1,0 +1,8 @@
+{
+  "tasks": [
+    {
+      "name": "build-install",
+      "cmd": "rm -f config.h && sudo make clean install"
+    }
+  ]
+}
